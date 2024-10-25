@@ -1,0 +1,28 @@
+{
+  "subscriptions": [
+    {
+      "process_id": "proc_001",
+      "process_name": "Fantastic_PriceGun",
+      "organization": "fantastic",
+      "subscription_status": "true",
+      "subscription_expiry": "2024-12-31",
+      "plan": "premium"
+    },
+    {
+      "process_id": "proc_002",
+      "process_name": "xyz_business",
+      "organization": "fantastic",
+      "subscription_status": "false",
+      "subscription_expiry": "2022-09-30",
+      "plan": "free"
+    },
+    {
+      "process_id": "proc_003",
+      "process_name": "Fantastic_Invoicing",
+      "organization": "fantastic",
+      "subscription_status": "true",
+      "subscription_expiry": "2025-01-15",
+      "plan": "enterprise"
+    }
+  ]
+}
