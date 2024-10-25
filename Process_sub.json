@@ -4,25 +4,22 @@
       "process_id": "proc_001",
       "process_name": "Fantastic_PriceGun",
       "organization": "fantastic",
-      "subscription_status": "true",
-      "subscription_expiry": "2024-12-31",
-      "plan": "premium"
+      "status": "true",
+      "sub_exp": "2024-12-31"
     },
     {
       "process_id": "P2",
       "process_name": "fantastic_stock",
       "organization": "fantastic",
-      "subscription_status": "false",
-      "subscription_expiry": "2022-09-30",
-      "plan": "free"
+      "status": "false",
+      "sub_exp": "2022-09-30"
     },
     {
       "process_id": "proc_003",
       "process_name": "Fantastic_Invoicing",
       "organization": "fantastic",
-      "subscription_status": "true",
-      "subscription_expiry": "2025-01-15",
-      "plan": "enterprise"
+      "status": "true",
+      "sub_exp": "2025-01-15"
     }
   ]
 }
