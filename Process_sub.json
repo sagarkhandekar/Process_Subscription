@@ -1,5 +1,5 @@
 {
-  "subscriptions": [
+  "master": [
     {
       "process_id": "proc_001",
       "process_name": "Fantastic_PriceGun",
