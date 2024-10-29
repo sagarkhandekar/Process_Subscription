@@ -2,7 +2,7 @@
   "master": [
     {
       "process_id": "proc_001",
-      "process_name": "Fantastic_PriceGun",
+      "process_name": "Fantastic_Price Checker",
       "organization": "fantastic",
       "status": "true",
       "sub_exp": "30-11-2024"
