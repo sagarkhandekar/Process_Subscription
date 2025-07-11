@@ -9,7 +9,7 @@
     },
     {
       "process_id": "proc_002",
-      "process_name": "fantastic_stock",
+      "process_name": "invoice validation process",
       "organization": "fantastic",
       "status": "true",
       "sub_exp": "MzEtMTItMjAyNQ"
